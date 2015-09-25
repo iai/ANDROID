@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PrimeiroAplicativo</string>
+    <string name="title_activity_main">Main Activity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo">Entrar no App</string>
+    <string name="title_activity_atividade_formulario">AtividadeFormulario</string>
+    <string name="title_activity_atividade_usuarios">AtividadeUsuarios</string>
+</resources>

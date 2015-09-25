@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotAgainTwo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">1465676437065828</string>
+    <string name="title_activity_logado">LogadoActivity</string>
+</resources>

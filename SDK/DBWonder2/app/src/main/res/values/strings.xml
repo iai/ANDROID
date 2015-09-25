@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DBWonder</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_atividade_lista_alunos">AtividadeListaAlunos</string>
+    <string name="title_activity_atividade_detalhe_aluno">AtividadeDetalheAluno</string>
+</resources>
